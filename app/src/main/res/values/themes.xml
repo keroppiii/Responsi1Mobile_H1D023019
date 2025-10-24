@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Responsi1MobileH1D023019" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.Responsi1MobileH1D023019" parent="Base.Theme.Responsi1MobileH1D023019" />
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="postSplashScreenTheme">@style/Theme.Responsi1MobileH1D023019</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="windowSplashScreenBackground">#F5F5F5</item>
+    </style>
+</resources>
