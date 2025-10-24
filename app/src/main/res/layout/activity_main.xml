@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#F5F5F5"
+    android:background="#B7E5FA"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -45,7 +45,7 @@
                 android:paddingHorizontal="16dp"
                 android:paddingVertical="8dp"
                 tools:text="Nama Klub"
-                android:textColor="@android:color/black"
+                android:textColor="#04115B"
                 android:textSize="19sp"
                 android:textStyle="bold" />
         </FrameLayout>
@@ -54,7 +54,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="16dp"
-            app:cardBackgroundColor="#FFA7AF"
+            app:cardBackgroundColor="#DD031057"
             app:cardCornerRadius="8dp"
             app:cardElevation="0dp">
 
@@ -63,7 +63,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="12dp"
-                android:textColor="@android:color/black"
+                android:textColor="@android:color/white"
                 android:justificationMode="inter_word"
                 tools:text="Deskripsi singkat tentang sejarah klub akan muncul di sini setelah data dimuat..." />
 

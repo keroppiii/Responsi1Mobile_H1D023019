@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#FEF5E7"
+    android:background="#B7E5FA"
     tools:context=".CoachActivity">
 
     <androidx.cardview.widget.CardView
@@ -35,7 +35,7 @@
         android:layout_marginTop="25dp"
         android:layout_marginEnd="25dp"
         android:visibility="gone"
-        app:cardBackgroundColor="#FADBD8"
+        app:cardBackgroundColor="#F23F51B5"
         app:cardCornerRadius="14dp"
         app:cardElevation="8dp"
         tools:visibility="visible">
