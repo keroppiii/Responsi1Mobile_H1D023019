@@ -12,8 +12,8 @@
 ---
 
 ## 📸 Demo Aplikasi
-| Tampilan                                 | 
-|------------------------------------------|
-| !![Video Demo Aplikasi](assets/demo.gif) | 
+| Tampilan                                | 
+|-----------------------------------------|
+| ![Video Demo Aplikasi](assets/demo.gif) | 
 
 ---
